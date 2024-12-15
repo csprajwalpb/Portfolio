@@ -79,6 +79,7 @@ nav ul li a:hover::after{
     color: #ff004f;
 }
 
+/*About Section*/
 
 #about{
     padding: 80px 0;
@@ -155,6 +156,7 @@ nav ul li a:hover::after{
     display: block;
 }
 
+/*Service Section*/
 
 #services{
     padding: 30px 0;
@@ -202,6 +204,7 @@ nav ul li a:hover::after{
     transform: translateY(-20px);
 }
 
+/*Portfolio Section*/
 
 #portfolio{
     padding: 50px 0;
@@ -272,6 +275,8 @@ nav ul li a:hover::after{
 .work:hover .layer{
     height: 100%;
 }
+
+/*Contact Section*/
 
 .contact-left{
     flex-basis: 35%;
@@ -357,6 +362,8 @@ form input, form textarea{
     font-size: 18px;
 }
 
+/*Copyright Section*/
+
 .copyright{
     width: 100%;
     text-align: center;
@@ -378,6 +385,7 @@ form input, form textarea{
     display: none;
 }
 
+/*Mobile or Small Screen Section*/
 
 @media only screen and (max-width: 600px){
     #header{
